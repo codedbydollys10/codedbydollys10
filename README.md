@@ -9,12 +9,17 @@
 ---
 
 # 🧠 What I'm Up To:
-
+<table> 
+<tr> 
+<td width="50%"> 
+  
 ### 🔭 Currently Exploring
 
 - Building real-world web development projects
 - Learning more about Python, JavaScript, TSX & AIML
 - Experimenting with gaming and game development concepts
+  </td> 
+  <td width="50%">  
 
 ### ⚡ Fun Facts
 
@@ -22,6 +27,9 @@
 - 💻 Love turning ideas into practical applications
 - 🚀 Always excited to learn technologies
 - 🤝 Open to collaborating
+   </td> 
+   </tr> 
+   </table>
 
 ---
 
@@ -68,7 +76,11 @@ srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=codedbydollys10&theme=discord&no-frame=true&no-bg=true&margin-w=4&title_color=ffffff&rank_color=ADD8E6&number_color=B39DDB)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=codedbydollys10&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  </a>
+</div>
 
 ---
 
