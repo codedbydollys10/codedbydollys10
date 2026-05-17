@@ -2,28 +2,19 @@
 ## 💫 About Me
 
 🚀 Computer Engineering student passionate about coding, problem-solving, and building real-world projects
-
 🧠 Interested in learning how systems work and improving my skills through hands-on development
-
 💻 Skilled in Python, JavaScript and TSX along with HTML/CSS
-
 🎮 Interested in AIML & exploring game development concepts
 
 ---
 
-## 🧠 What I'm Up To
+## 🧠 What I'm Up To:
 
 ### 🔭 Currently Exploring
 
 - Building real-world web development projects
 - Learning more about Python, JavaScript, TSX & AIML
 - Experimenting with gaming and game development concepts
-
-### 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- Backend and Full Stack Development
-- Writing cleaner and efficient code
 
 ### ⚡ Fun Facts
 
