@@ -101,6 +101,5 @@ srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution
 
 ![](https://komarev.com/ghpvc/?username=codedbydollys10&style=for-the-badge&color=00C853)
 
----
 
-### ✨ Code • Create • Learn • Repeat ✨
+
